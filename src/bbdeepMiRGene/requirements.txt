@@ -1,0 +1,8 @@
+python=3.7
+numpy
+pandas
+scikit-learn
+keras
+theano
+biopython
+viennarna
