@@ -2,7 +2,7 @@
 
 This repository contains the source code to reproduce the results shown in
 
-> L.A. Bugnon, C. Yones, D.H. Milone and G. Stegmayer, "Genome-wide discovery of pre-miRNAs: comparison of recent approaches based on machine learning" (under review), 2020
+> L.A. Bugnon, C. Yones, D.H. Milone and G. Stegmayer, "Genome-wide discovery of pre-miRNAs: comparison of recent approaches based on machine learning" (in press), 2020
 
 The genome-wide discovery of microRNAs (miRNAs) involves identifying sequences having the highest chance of being a novel  miRNA precursor (pre-miRNA), within all  sequences in a complete genome. The known pre-miRNAs are usually just a few in comparison to the millions of candidates to pre-miRNAs that have to be analyzed. In this work, we review  six recent methods for tackling this problem with machine learning, comparing the models in genome-wide datasets. They have been designed for the pre-miRNAs prediction task, where there is a class of interest that is significantly underrepresented (the known pre-miRNAs) with respect to a very large number of unlabeled samples. 
 
